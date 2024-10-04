@@ -4,7 +4,7 @@
 
 The **Student Accommodation Finder Website** is a powerful platform designed to help students find the perfect place to stay during their academic journey. Built using **PHP**, this website provides a seamless user experience, with comprehensive features to search, view, and book student accommodations. The integration of a **Map API** enhances the location-based search, offering a visual approach to finding the ideal accommodation.
 
-## ![Overview Icon](https://media.istockphoto.com/id/1151842937/vector/audit-document-icon-in-transparent-style-result-report-vector-illustration-on-isolated.jpg?s=612x612&w=0&k=20&c=oE2WHJLRIq_Uz_zBKuss7Z8xaZku5e91XtFzRLcChSs=) Project Overview
+## ![Overview Icon]() Project Overview
 
 This project serves as a dedicated solution for students looking for accommodation. The platform includes essential features such as account management for users, property listings, booking appointments to view properties, and a dedicated landlord portal. It also provides administrators with tools to manage listings, users, and overall site content.
 
